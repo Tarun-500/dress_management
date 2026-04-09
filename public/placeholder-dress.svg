@@ -1,0 +1,6 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="800" height="500" rx="24" fill="#1f2937"/>
+<path d="M400 90L470 180L450 430H350L330 180L400 90Z" fill="#ec4899"/>
+<circle cx="400" cy="68" r="30" fill="#fbcfe8"/>
+<text x="50%" y="92%" fill="#fdf2f8" text-anchor="middle" font-size="32" font-family="Arial">Dress Preview</text>
+</svg>
