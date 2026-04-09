@@ -117,33 +117,6 @@ prisma/
 
 ---
 
-
-
-## Security patch (CVE-2025-66478)
-
-This project is pinned to a patched Next.js release (`15.5.9`) to avoid the vulnerable versions flagged by Vercel.
-
-If Vercel warns again, run:
-
-```bash
-npm install next@15.5.9 react@19.2.0 react-dom@19.2.0
-```
-
----
-
-## Put it online for free (now)
-
-Use **Vercel Free** to host this app immediately.
-
-1. Push repo to GitHub
-2. Import repo at `vercel.com/new`
-3. Deploy
-4. Open `/api/health` to verify deployment
-
-Detailed steps: `docs/FREE_DEPLOYMENT.md`.
-
----
-
 ## Next steps I recommend (Phase 2)
 
 1. Add real authentication (JWT + hashed password + session middleware).
